@@ -2,11 +2,6 @@ import os
 from random import *
 import time
 size = int(15)
-decrease = "no"
-
-
-
-
 
 while True:
 
